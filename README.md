@@ -8,7 +8,7 @@ This repository contains a Jupyter Notebook (`childmindinstitutetvh.ipynb`) that
 - **Notebook Title**: CMI-KaggleCompetition
 - **Code Cells**: 15
 - **Markdown Cells**: 7
-- **Purpose**: [Provide purpose based on user clarification, e.g., data analysis, visualization, etc.]
+- **Purpose**: data analysis.
 
 ## Content Highlights
 
