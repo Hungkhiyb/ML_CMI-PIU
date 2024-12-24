@@ -8,14 +8,19 @@ This repository contains a Jupyter Notebook (`childmindinstitutetvh.ipynb`) that
 - **Notebook Title**: CMI-KaggleCompetition
 - **Code Cells**: 15
 - **Markdown Cells**: 7
-- **Purpose**: [Provide purpose based on user clarification, e.g., data analysis, visualization, etc.]
+- **Purpose**: data analysis
 
 ## Content Highlights
 
 The notebook includes:
 - Data exploration and visualization steps.
 - Implementation of analytical or computational tasks using Python.
-- [Additional tasks, e.g., machine learning model development, etc. (if applicable)].
+
+## Data
+
+The dataset used in this project is from the competition hosted on Kaggle:
+- **Link**: [Child Mind Institute Problematic Internet Use Dataset](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data)
+- **Description**: This dataset is related to research on problematic internet use and contains anonymized data for analysis.
 
 ## How to Run the Notebook
 
